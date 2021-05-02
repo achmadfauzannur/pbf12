@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "nim": "1841720199",
+      "nama": "ojan",
+      "alamat": "Kww ",
+      "hp": "03141412",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "nim": "1841720057",
+      "nama": "ojan",
+      "alamat": "Malang",
+      "hp": "03141412",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "nim": "1841720199",
+      "nama": "ojan",
+      "alamat": "Malang",
+      "hp": "03141412",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "userId": 1,
+      "id": 1615110247466,
+      "nim": "168518",
+      "nama": "ojan",
+      "alamat": "Jl.Menu",
+      "hp": "197591710",
+      "angkatan": "2019",
+      "status": "Aktif"
+    },
+    {
+      "userId": 1,
+      "id": 1615120381993,
+      "nim": "171759",
+      "nama": "Samsion",
+      "alamat": "Jl Tembikar",
+      "hp": "19515150",
+      "angkatan": "2019",
+      "status": "Aktif"
+    },
+    {
+      "userId": 1,
+      "id": 1615120533493,
+      "nim": "1841720141",
+      "nama": "achmad",
+      "alamat": "Jl.Menuju skip ",
+      "hp": "1958015810",
+      "angkatan": "2018",
+      "status": "Tidak aktif"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

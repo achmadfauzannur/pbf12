@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "userId": 1,
+      "id": 1618192524540,
+      "nim": "1841720027",
+      "nama": "ojan",
+      "alamat": "Malang",
+      "hp": "089898989",
+      "angkatan": "18",
+      "status": "Mahasiswa"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
